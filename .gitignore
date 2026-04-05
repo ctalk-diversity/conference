@@ -2,6 +2,10 @@
 AGENTS.md
 PROJECT.md
 SOUL.md
+HEARTBEAT.md
+IDENTITY.md
+TOOLS.md
+USER.md
 conference-guide.md
 conference-page-improvements.md
 conference-tracker.md
@@ -16,4 +20,5 @@ README.txt
 # Local OpenClaw workspace data
 .openclaw/
 
+# macOS
 .DS_Store
