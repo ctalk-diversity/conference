@@ -61,7 +61,8 @@
 ### 4. 홈 페이지 반영
 
 - `index.html`의 최신 conference 카드 또는 섹션을 새 upcoming conference로 교체한다.
-- 외부 사용자가 첫 화면에서 최신 upcoming conference를 확인할 수 있어야 한다.
+- 최신 upcoming conference 카드에는 `Continue Reading` 버튼 바로 오른쪽, 같은 높이의 `ul.actions` 항목으로 `Register Now` 버튼을 추가한다. 링크는 해당 상세 페이지의 확정된 등록 링크와 동일하게 맞추고, 외부 링크이므로 `target="_blank"`와 `rel="noopener noreferrer"`를 사용한다.
+- 외부 사용자가 첫 화면에서 최신 upcoming conference를 확인하고 바로 신청할 수 있어야 한다.
 
 ### 5. 검증
 
@@ -76,6 +77,7 @@
 ## 완료 기준
 
 - 새 upcoming conference가 `index.html`과 `Pages/conferences.html`에 노출된다.
+- `index.html`의 최신 upcoming conference 카드에서 `Continue Reading` 옆에 같은 높이의 `Register Now` 버튼이 보이고, 상세 페이지의 등록 링크와 같은 URL로 연결된다.
 - 새 upcoming conference 상세 페이지가 실제 이미지와 연결된다.
 - archive로 옮긴 conference가 완료형 상태로 보인다.
 - archive 결과물 링크를 추가할 수 있는 구조가 유지된다.

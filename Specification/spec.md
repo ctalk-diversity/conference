@@ -177,6 +177,7 @@
 - `Event Details`와 speaker 섹션 사이에 `Conference Overview`를 두고, 이 회차가 왜 중요한지 짧게 설명한다.
 - 아카이브 페이지는 과거 행사임을 명시한다.
 - 최신 conference는 홈과 목록에서 우선 노출한다.
+- 최신 upcoming conference를 `index.html`에 노출할 때, conference 카드의 `Continue Reading` 버튼 바로 오른쪽 같은 `ul.actions` 줄에 상세 페이지의 등록 링크와 동일한 `Register Now` 버튼을 함께 둔다. 등록 링크가 불명확하면 임의 생성하지 말고 확인한다.
 - 문자가 깨진 흔적이 있으면 수정 작업 중에 함께 바로잡는다.
 - speaker가 1명이어도 overview와 맥락 설명은 생략하지 않는다.
 
