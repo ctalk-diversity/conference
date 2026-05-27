@@ -33,3 +33,5 @@ Generated: 2026-05-27T15:55:00+09:00
 - 29th conference images are stored in `images/conferences/29/`.
 - `index.html` now promotes the 29th conference as upcoming and keeps the sidebar conference preview on 28th and 27th.
 - 28th conference has been converted from upcoming to archive copy and no longer exposes a registration CTA in its detail page.
+- News links from the 2026-05-27 spreadsheet attachment are normalized in `Specification/ctalk-news.md`.
+- Conference archive pages 7, 8, 9, 10, 11, 12, 13, and 15-27 now use the spreadsheet-provided news links in their `Related Coverage` sections.
